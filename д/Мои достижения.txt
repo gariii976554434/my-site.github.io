@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Мои достижения</title>
+</head>
+
+
+
+<center>
+<body>
+<h1>Обо мне</h1>
+<div class='text'>
+~ Окончила 9 классов с красным аттестатом
+</p>
+~ Окончила художественную школу с отличием
+</p> 
+~ Занимаюсь танцами 12 лет
+</p>
+<img src='https://sun9-27.userapi.com/impg/XHredQekHwUlAR_TgG1QTKzEL2KyqNBn0N5Idw/e2WrdfVYZLE.jpg?size=810x1080&quality=95&sign=c262e7791b09fc0273696e30a4ba06c8&type=album'width='450 height='100'></img>
+<img src='https://sun9-28.userapi.com/impg/uGSecI-qmguQ4h2lyjiT-T1dOz9wSRIUeh-qPQ/TijGVNLAaxE.jpg?size=810x1080&quality=95&sign=1b05d3cc06ad4e375ab2b4e31c7002b9&type=album'width='450 height='100'></img>
+<img src='https://sun9-50.userapi.com/impg/uRihPyu878zyt1ezBIezu-BnHCcLoZtDT6SQKA/I0D-zHYVeck.jpg?size=810x1080&quality=95&sign=58975555ea9ef9d92f63e4cad293ec43&type=album'width='450 height='100'></img>
+<img src='https://sun9-78.userapi.com/impg/GxetMDyX7bXdpMjhEx0paXPoNDCx1F8eJMGfOg/MBFrfBXCFII.jpg?size=810x1080&quality=95&sign=7dd511c7872a895236ce7753099ec26b&type=album'width='450 height='100'></img>
+<img src='https://sun9-47.userapi.com/impg/ZMu3D7eQds-V4i3EpfVILZHeZgUvEz02tuwjbA/ppNId-SM8zU.jpg?size=810x1080&quality=95&sign=83e77951b4976273f637701e9920eaab&type=album'width='450 height='100'></img>
+<img src='https://sun9-71.userapi.com/impg/MhAZuUqnn6Mw_1mVk06keEKBcU3cQswCdHu08Q/JD9otve7ya8.jpg?size=810x1080&quality=95&sign=53f88f3cf9f70eed7776eb40381894de&type=album'width='450 height='100'></img>
+<img src='https://sun9-70.userapi.com/impg/dtf2UFWDYbSKgZiUzMmZRI6AFJNgM4WwOyMqXA/pbFMFgT8zJw.jpg?size=810x1080&quality=95&sign=ad5433359be8b2e3b14275cb0edc347c&type=album'width='450 height='100'></img>
+<img src='https://sun9-34.userapi.com/impg/hxMrEq6O12nuu3BUFIPjeelenB93o-HTfrL1bQ/q-hKTerSj5I.jpg?size=810x1080&quality=95&sign=f90e92dd1138069bf5f07360ebf829ee&type=album'width='450 height='100'></img>
+<img src='https://sun9-61.userapi.com/impg/nn2BoMFzOt8UKllYw4AtkcahUI-qgTKWxIuCog/DLkq4mO4a_A.jpg?size=810x1080&quality=95&sign=de954dce8df890c61924bbadf0604ead&type=album'width='450 height='100'></img>
+<img src='https://sun9-44.userapi.com/impg/-YAoHgcucTlip2F6rkwEuCFEC6qWvYuqzEFEgA/FqmGMJ_EUQs.jpg?size=810x1080&quality=95&sign=0e4e83a98b9b02eab0ed075d5de4530f&type=album'width='450 height='100'></img>
+<img src='https://sun9-25.userapi.com/impg/dUO6Uk79uGIWwmJkxvOefWXYihpk2jx5JgAYPw/DIo-SUgrhSU.jpg?size=810x1080&quality=95&sign=04122ba8f46c43b20aff7441dbb8729a&type=album'width='450 height='100'></img>
+<img src='https://sun9-21.userapi.com/impg/NJPkH-U830zjSgx6zIXE6QZTYh8oWa-dqTPyvQ/CtuJptn0ims.jpg?size=810x1080&quality=95&sign=dd3db2d5a8e0cabc00182dfa10221ec2&type=album'width='450 height='100'></img>
+</div>
+</body>
+</center>
+
+
+<style>
+body{background-color:#FFCCCC;}
+.text{color:#000000; font-size:20px; font-family:protest-strike;}
+h1{color:#FF99FF; font-size:50px; font-family:sans-serif;}
+
+
+
+
+</style>
+
+
+</html>
